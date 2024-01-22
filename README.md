@@ -27,12 +27,12 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-DevSecOps-Tetris-Project.git
+   git clone https://github.com/DevCloudNinjas/Complete-Kubernetes-DevSecOps-Tetris-Project.git
 2. **Explore the Directories:**
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 
 3. **Follow the Blog:**
-   Implementation details and insights are documented in the associated [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120).
+   Implementation details and insights are documented in the associated [blog post](https://softwaresennin.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120).
 
 ## Tools Explored 🛠️
 1. **Jenkins:** Automated CI/CD pipelines
