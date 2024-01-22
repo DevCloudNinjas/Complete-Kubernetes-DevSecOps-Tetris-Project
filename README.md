@@ -1,7 +1,7 @@
 # 🚀 End-to-End DevSecOps Kubernetes Project 🌐
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/lionel-tchami/)
+[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/apotitech)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Mastery-brightgreen)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet)
 ![Jenkins](https://img.shields.io/badge/Jenkins-Automation-orange)
@@ -45,7 +45,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 8. **Terraform:** Infrastructure as Code for AWS EKS
 
 ## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
+   To implement this project, follow the step-by-step guide in our detailed [blog post](https://softwaresennin.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
 
 ## Acknowledgments 🙌
    Special thanks to the open-source community and the contributors who make learning and collaboration an incredible journey.
